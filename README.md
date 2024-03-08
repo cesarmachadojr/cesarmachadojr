@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Cesar Machado Junior
 
-- 🔭 Hoje estou cursando ciência da computação no IFSC Lages
+- 🔭 Hoje estou cursando Ciência da Computação no IFSC Lages
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarmachadojr&show_icons=true&theme=tokyonight)
 
