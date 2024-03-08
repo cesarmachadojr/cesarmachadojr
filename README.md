@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Cesar Machado Junior
 
 - 🔭 Hoje estou cursando ciência da computação no IFSC Lages
-- 📫 Onde entrar em contado comigo: cesarmcjr2005@gmail.com
-
+- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarmachadojr&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block"><br>
