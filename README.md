@@ -3,7 +3,7 @@
 - 🔭 Hoje estou cursando ciência da computação no IFSC Lages
 - 📫 Onde entrar em contado comigo: cesarmcjr2005@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarjr17&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarmachadojr&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
