@@ -9,11 +9,11 @@
   <img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
+<br>
 
 
 
-
-<img src="gif.gif" alt="" height="400" width="1000" >
+<img src="gif.gif" alt="" height="250" width="480" >
 
 
  ##
