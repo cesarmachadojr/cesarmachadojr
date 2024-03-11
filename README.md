@@ -13,7 +13,7 @@
 
 
 
-<img src="gif.gif" alt="" height="250" width="480" >
+<img src="gif.gif" alt="" height="400" width="1000" >
 
 
  ##
